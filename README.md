@@ -9,12 +9,10 @@ A security audit is a review of the organization's security controls, policies, 
 
 This project comprises of three documents:</b>
 
-1. Controls assessment
-2. Compliance Checklist
-3. Stakeholder memorandum
-
-
-<br />
+1. _Controls assessment_, where I was able to list the current assets and assess and prioritize the need to implement various administrative, technical and physical controls across the company.
+2. _Compliance checklist_, where I was able to determine the compliance regulations and policies that the company needs to adhere to in order to do business online and outside of the U.S.
+3. _Stakeholder memorandum_, is a final document where I included the scope, goals, findings and final recommendations to be reported to the stakeholder in order to seek approval to boost security. 
+<br/>
 
 
 <h2>Scenario</h2>
