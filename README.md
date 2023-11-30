@@ -5,6 +5,8 @@
 
 For this project I completed an internal security audit for an immaginary company based in the U.S.</b>
 
+This is based on the first of the five key functions composing the [**NIST Cybersecurity Framework**](https://www.nist.gov/cyberframework).</b>
+
 A security audit is a review of the organization's security controls, policies, and procedures against a set of expectations.</b>
 
 This project comprises of three documents:</b>
@@ -28,14 +30,11 @@ This project comprises of three documents:</b>
 
 <h2>Learnings</h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+- <b>The importance of controls implementation for a business</b>
+- <b>The need to align business practices with industry standards</b>
+- <b>How to identify vulnerabilities</b>
+- <b>How to prioritize controls</b>
+- <b>Communicate critical findings and recommendations in a clear and concise way</b>
 
 <!--
  ```diff
