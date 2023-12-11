@@ -11,9 +11,9 @@ A security audit is a review of the organization's security controls, policies, 
 
 This project comprises of three documents:</b>
 
-1. [_Controls assessment_](https://github.com/arnius88/InternalAudit/blob/main/1.Controls%20assessment.pdf), where I listed the current assets. Following this, I assessed and prioritized the need to implement various administrative, technical and physical controls across the company.
-2. [_Compliance checklist_](https://github.com/arnius88/InternalAudit/blob/main/2.Compliance%20checklist.pdf), where I was able to determine the compliance regulations and policies that the company needs to adhere to in order to do business online and outside of the U.S.
-3. [_Stakeholder memorandum_](https://github.com/arnius88/InternalAudit/blob/main/3.Stakeholder%20memorandum.pdf), is a final document where I included the scope, goals, findings and final recommendations to be reported to the stakeholder in order to seek approval to boost security. 
+1. [_Controls assessment_](https://github.com/arnius88/InternalAudit/blob/main/1.Controls%20assessment.pdf), where I listed the current assets. Here, I was able to assess and prioritize them based on the need to implement various administrative, technical and physical controls across the company.
+2. [_Compliance checklist_](https://github.com/arnius88/InternalAudit/blob/main/2.Compliance%20checklist.pdf), where I determined what compliance regulations and policies the company needs to adhere to do business online and outside of the U.S.
+3. [_Stakeholder memorandum_](https://github.com/arnius88/InternalAudit/blob/main/3.Stakeholder%20memorandum.pdf), is a final document where I included scope and goals of the audit as well as findings and final recommendations to be reported to stakeholders in order to seek approval and increase security spending.
 <br/>
 
 
@@ -30,7 +30,7 @@ This project comprises of three documents:</b>
 
 <h2>Learnings</h2>
 
-- <b>The importance of controls implementation for a business</b>
+- <b>The importance of implementing controls in order to protect assets</b>
 - <b>The need to align business practices with industry standards</b>
 - <b>How to identify vulnerabilities</b>
 - <b>How to prioritize controls</b>
