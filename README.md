@@ -5,7 +5,7 @@
 
 For this project I completed an internal security audit for an immaginary company based in the U.S.</b>
 
-This is based on the first of the five key functions composing the [**NIST Cybersecurity Framework**](https://www.nist.gov/cyberframework): _Identify_.</b>
+This activity belongs to _Identify_, the first of the five key functions composing the [**NIST Cybersecurity Framework**](https://www.nist.gov/cyberframework)</b>
 
 A security audit is a review of the organization's security controls, policies, and procedures against a set of expectations.</b>
 
